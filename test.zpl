@@ -1,0 +1,3 @@
+^XA
+^FO50,50^ADN,36,20^FDHello Zebra!^FS
+^XZ
